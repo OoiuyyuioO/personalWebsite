@@ -1,2 +1,1 @@
 # personalWebsite
-typescript webpack
